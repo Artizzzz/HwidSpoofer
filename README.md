@@ -16,3 +16,7 @@ currently in seperate .bat files, might combine 'em all later.
 
 
 note: THIS WONT WORK without `system file` and `mapper`, only these code snippets will be exposed for educational purposes only, glhf.
+
+
+
+# IT FLAGS BCS IT IS AN SPOOFER SO NO SHIT
